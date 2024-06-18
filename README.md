@@ -1,7 +1,5 @@
 # 30 PBK UTS 223510469 - Yardan Hadziq
 
-# Aplikasi Todo, Posts, dan Album
-
 Proyek ini adalah aplikasi Vue.js yang memungkinkan pengguna untuk mengelola daftar tugas (todo), melihat postingan, dan menjelajahi album foto. Aplikasi ini menggunakan Vue Router untuk navigasi halaman, Pinia sebagai state management, dan Quasar sebagai UI framework.
 
 ## Fitur
