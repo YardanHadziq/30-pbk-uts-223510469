@@ -37,7 +37,7 @@ npm install vue-router@4
 ```
 
 ```
-npm installa axios
+npm install axios
 ```
 
 ```
